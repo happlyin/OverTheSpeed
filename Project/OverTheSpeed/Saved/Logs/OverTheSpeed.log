@@ -650,3 +650,383 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.30-01.31.50:554][  0]LogAssetRegistry: Asset discovery search completed in 4.8315 seconds
 [2021.08.30-01.31.50:560][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2021.08.30-01.31.50:561][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.30-01.48.33:362][722]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.08.30-01.48.33:362][722]LogTemp: Resetting audio stream to device id 
+[2021.08.30-01.48.34:131][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.30-01.48.34:131][722]LogAudioMixer: Display: 1: FrontRight
+[2021.08.30-01.48.34:685][723]LogTemp: Resetting audio stream to device id 
+[2021.08.30-01.48.34:727][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.30-01.48.34:727][723]LogAudioMixer: Display: 1: FrontRight
+[2021.08.30-01.48.35:132][724]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.08.30-01.48.35:132][724]LogTemp: Resetting audio stream to device id 
+[2021.08.30-01.48.35:973][724]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.30-01.48.35:975][724]LogAudioMixer: Display: 1: FrontRight
+[2021.08.30-01.48.36:168][725]LogTemp: Resetting audio stream to device id 
+[2021.08.30-01.48.36:214][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.30-01.48.36:215][725]LogAudioMixer: Display: 1: FrontRight
+[2021.08.30-01.52.01:625][650]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.30-02.00.58:925][643]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.30-02.00.58:951][643]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\CarInfoBar.png)
+[2021.08.30-02.00.58:954][643]LogTexture: Display: 텍스처 빌드: CarInfoBar (AutoDXT, 616X100)
+[2021.08.30-02.01.00:362][671]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\BoosterIcon.png)
+[2021.08.30-02.01.00:364][671]LogTexture: Display: 텍스처 빌드: BoosterIcon (AutoDXT, 140X140)
+[2021.08.30-02.01.02:531][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\BoosterCompartment.png)
+[2021.08.30-02.01.02:533][705]LogTexture: Display: 텍스처 빌드: BoosterCompartment (BGRA8, 139X139)
+[2021.08.30-02.01.03:895][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\boosterChargeBarFillRight_Team.png)
+[2021.08.30-02.01.03:898][727]LogTexture: Display: 텍스처 빌드: boosterChargeBarFillRight_Team (BGRA8, 375X50)
+[2021.08.30-02.01.05:462][744]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\boosterChargeBarFillRight_Person.png)
+[2021.08.30-02.01.05:465][744]LogTexture: Display: 텍스처 빌드: boosterChargeBarFillRight_Person (BGRA8, 375X50)
+[2021.08.30-02.01.07:128][768]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\boosterChargeBarFillLeft2.png)
+[2021.08.30-02.01.07:130][768]LogTexture: Display: 텍스처 빌드: boosterChargeBarFillLeft2 (BGRA8, 375X50)
+[2021.08.30-02.01.19:795][839]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\boosterChargeBackgroundRight.png)
+[2021.08.30-02.01.19:797][839]LogTexture: Display: 텍스처 빌드: boosterChargeBackgroundRight (BGRA8, 375X50)
+[2021.08.30-02.01.22:028][859]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\My\MyProjects\OverTheSpeed\UI Icon Files\boosterChargeBarBackgroundLeft.png)
+[2021.08.30-02.01.22:030][859]LogTexture: Display: 텍스처 빌드: boosterChargeBarBackgroundLeft (BGRA8, 375X50)
+[2021.08.30-02.01.25:814][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.30-02.01.27:882][921]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.30-02.01.27:923][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBackgroundRight5C47C348460E8A65BF4869A05CA5C20B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBackgroundRight.uasset'
+[2021.08.30-02.01.27:929][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBarBackgroundLeftD05DD52A4570284255226E812C841643.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBarBackgroundLeft.uasset'
+[2021.08.30-02.01.27:937][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBarFillLeft218C770AE4A415706E8A12B84EA42FCAE.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBarFillLeft2.uasset'
+[2021.08.30-02.01.27:944][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBarFillRight_Person580E0EC0489EFB55E73799A7DF7122C4.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBarFillRight_Person.uasset'
+[2021.08.30-02.01.27:950][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBarFillRight_Team0B5EF79E4D5AFC8D2FF77C93CEA0CA3C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBarFillRight_Team.uasset'
+[2021.08.30-02.01.27:959][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/BoosterCompartmentFA3945B54A6FF6DE97447AA56F161BF0.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/BoosterCompartment.uasset'
+[2021.08.30-02.01.27:963][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/BoosterIcon" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/BoosterIcon.uasset" SILENT=true
+[2021.08.30-02.01.27:967][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/BoosterIcon410CB1D84AEC2EB4DF8C7DB4D86BF05D.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/BoosterIcon.uasset'
+[2021.08.30-02.01.27:972][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/CarInfoBar" FILE="../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/CarInfoBar.uasset" SILENT=true
+[2021.08.30-02.01.27:976][921]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/CarInfoBar3C0AFDC645AEAACFC36A0591BC5B28F1.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/CarInfoBar.uasset'
+[2021.08.30-02.01.28:008][921]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBackgroundRight.boosterChargeBackgroundRight 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBarBackgroundLeft.boosterChargeBarBackgroundLeft 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBarFillLeft2.boosterChargeBarFillLeft2 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBarFillRight_Person.boosterChargeBarFillRight_Person 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBarFillRight_Team.boosterChargeBarFillRight_Team 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/BoosterCompartment.BoosterCompartment 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/BoosterIcon.BoosterIcon 유효성 검사
+[2021.08.30-02.01.28:008][921]LogContentValidation: Display: Texture2D /Game/UI/Icons/CarInfoBar.CarInfoBar 유효성 검사
+[2021.08.30-02.01.39:048][552]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/boosterChargeBarFillLeft4C9374764627B220228F77843AE953AB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/UI/Icons/boosterChargeBarFillLeft.uasset'
+[2021.08.30-02.01.39:149][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.30-02.01.39:172][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.30-02.01.39:182][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.08.30-02.01.39:208][552]AssetCheck: New page: 애셋 저장: boosterChargeBarFillLeft
+[2021.08.30-02.01.39:208][552]LogContentValidation: Display: Texture2D /Game/UI/Icons/boosterChargeBarFillLeft.boosterChargeBarFillLeft 유효성 검사
+[2021.08.30-02.13.46:779][927]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Pixel\pixe_body.fbx)
+[2021.08.30-02.13.46:804][927]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Pixel\pixe_body.fbx
+[2021.08.30-02.13.46:812][927]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.13.51:590][927]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.13.52:187][927]LogTexture: Display: 텍스처 빌드: Pixel (AutoDXT, 4096X4096)
+[2021.08.30-02.13.54:332][927]LogMaterial: Display: Missing cached shader map for material 매테리얼, compiling. 
+[2021.08.30-02.13.54:384][927]LogFbx: Display: Triangulating static mesh 구체
+[2021.08.30-02.13.54:440][927]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.13.54:440][927]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.13.54:440][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.13.54:441][927]LogStaticMesh: pixe_body 스태틱 메시 빌드중...
+[2021.08.30-02.13.54:488][927]LogStaticMesh: Built static mesh [0.05s] /Game/Objects_3D/Cars/Pixel/pixe_body.pixe_body
+[2021.08.30-02.13.54:508][927]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.13.54:658][927]LogSlate: Took 0.001045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.30-02.13.54:665][927]LogSlate: Took 0.007147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.08.30-02.14.15:509][105]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.14.15:515][105]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.14.28:724][844]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Pixel_body8FC762604F2225BE6843C2B7FA49109E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/Pixel_body.uasset'
+[2021.08.30-02.14.28:830][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.08.30-02.14.28:852][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.30-02.14.28:863][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.30-02.14.28:891][844]AssetCheck: New page: 애셋 저장: Pixel_body
+[2021.08.30-02.14.28:891][844]LogContentValidation: Display: Texture2D /Game/Objects_3D/Cars/Pixel/Pixel_body.Pixel_body 유효성 검사
+[2021.08.30-02.14.58:313][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.30-02.14.58:315][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.018
+[2021.08.30-02.14.58:317][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/Cars/Pixel/pixe_body] ([1] browsable assets)...
+[2021.08.30-02.14.58:332][512]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects_3D/Cars/Pixel/pixe_body.pixe_body]
+[2021.08.30-02.14.58:332][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/Cars/Pixel/pixe_body]
+[2021.08.30-02.14.58:356][512]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixe_body_Auto18979E0E3496B4956F8F3D582DF4F9826.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/Cars/Pixel/pixe_body_Auto1.uasset'
+[2021.08.30-02.14.58:358][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/Cars/Pixel/매테리얼] ([1] browsable assets)...
+[2021.08.30-02.14.58:373][512]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects_3D/Cars/Pixel/매테리얼.매테리얼]
+[2021.08.30-02.14.58:373][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/Cars/Pixel/매테리얼]
+[2021.08.30-02.14.58:387][512]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/매테리얼_Auto1D8541C36422ACC8727167BA385D4C195.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/Cars/Pixel/매테리얼_Auto1.uasset'
+[2021.08.30-02.14.58:388][512]LogFileHelpers: Auto-saving content packages took 0.073
+[2021.08.30-02.16.50:002][776]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixe_body3C275CE84942648F470C6FB49356FC24.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixe_body.uasset'
+[2021.08.30-02.16.50:153][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.30-02.16.50:199][776]AssetCheck: New page: 애셋 저장: Pixe_body
+[2021.08.30-02.16.50:199][776]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixe_body.Pixe_body 유효성 검사
+[2021.08.30-02.16.59:531][289]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_Pixe_body0198685C41CD940A184046B8E25B26BD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/MAT_Pixe_body.uasset'
+[2021.08.30-02.16.59:667][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.08.30-02.16.59:699][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.08.30-02.16.59:713][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.30-02.16.59:753][289]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixe_bodyB230263F4481E32D79A22798336CCFB5.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixe_body.uasset'
+[2021.08.30-02.16.59:798][289]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.16.59:798][289]LogContentValidation: Display: Material /Game/Objects_3D/Cars/Pixel/MAT_Pixe_body.MAT_Pixe_body 유효성 검사
+[2021.08.30-02.16.59:798][289]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixe_body.Pixe_body 유효성 검사
+[2021.08.30-02.19.07:625][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Pixel\pixel_wheel.fbx)
+[2021.08.30-02.19.07:644][659]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Pixel\pixel_wheel.fbx
+[2021.08.30-02.19.07:653][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.19.08:839][659]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.19.08:903][659]LogTexture: Display: 텍스처 빌드: pixel_wheel1 (AutoDXT, 1024X1024)
+[2021.08.30-02.19.09:076][659]LogMaterial: Display: Missing cached shader map for material 매테리얼, compiling. 
+[2021.08.30-02.19.09:092][659]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.30-02.19.09:104][659]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.19.09:104][659]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.19.09:104][659]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.19.09:105][659]LogStaticMesh: pixel_wheel 스태틱 메시 빌드중...
+[2021.08.30-02.19.09:129][659]LogStaticMesh: Built static mesh [0.02s] /Game/Objects_3D/Cars/Pixel/pixel_wheel.pixel_wheel
+[2021.08.30-02.19.09:138][659]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.19.11:749][784]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.19.11:753][784]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.19.21:611][292]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixel_wheel383D09D641A8E917AEF389BA12B6B2BD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixel_wheel.uasset'
+[2021.08.30-02.19.21:905][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.08.30-02.19.21:950][292]AssetCheck: New page: 애셋 저장: Pixel_wheel
+[2021.08.30-02.19.21:950][292]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixel_wheel.Pixel_wheel 유효성 검사
+[2021.08.30-02.19.39:506][230]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_Pixel_wheelFAD2708546E3A430579F14A31589AEA3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/Texture_Pixel_wheel.uasset'
+[2021.08.30-02.19.39:614][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.08.30-02.19.39:637][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.30-02.19.39:651][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.30-02.19.39:683][230]AssetCheck: New page: 애셋 저장: Texture_Pixel_wheel
+[2021.08.30-02.19.39:683][230]LogContentValidation: Display: Texture2D /Game/Objects_3D/Cars/Pixel/Texture_Pixel_wheel.Texture_Pixel_wheel 유효성 검사
+[2021.08.30-02.19.50:929][861]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_Pixel_body66D25F124BC941973214FB82DEDC1EB0.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/Texture_Pixel_body.uasset'
+[2021.08.30-02.19.51:082][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.30-02.19.51:105][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.30-02.19.51:117][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.30-02.19.51:158][861]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_Pixe_body81B7CDBF4517C17588AC78A1BC02EC3C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/MAT_Pixe_body.uasset'
+[2021.08.30-02.19.51:201][861]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.19.51:201][861]LogContentValidation: Display: Texture2D /Game/Objects_3D/Cars/Pixel/Texture_Pixel_body.Texture_Pixel_body 유효성 검사
+[2021.08.30-02.19.51:201][861]LogContentValidation: Display: Material /Game/Objects_3D/Cars/Pixel/MAT_Pixe_body.MAT_Pixe_body 유효성 검사
+[2021.08.30-02.20.30:237][120]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_Pixle_bodyCC8D7D304E176BFDD2FC6C941C9023B8.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/MAT_Pixle_body.uasset'
+[2021.08.30-02.20.30:360][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.30-02.20.30:383][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.30-02.20.30:395][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.30-02.20.30:427][120]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixe_bodyF5BA2260466920CC34DE749F3CF37DB0.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixe_body.uasset'
+[2021.08.30-02.20.30:467][120]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.20.30:467][120]LogContentValidation: Display: Material /Game/Objects_3D/Cars/Pixel/MAT_Pixle_body.MAT_Pixle_body 유효성 검사
+[2021.08.30-02.20.30:467][120]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixe_body.Pixe_body 유효성 검사
+[2021.08.30-02.20.46:009][ 20]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_Pixel_bodyC2CD349E48955733BCBA038B48415AC2.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/MAT_Pixel_body.uasset'
+[2021.08.30-02.20.46:174][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.30-02.20.46:262][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.30-02.20.46:275][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.30-02.20.46:308][ 20]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixe_bodyF95F28E54E5CD09565D94E8139764237.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixe_body.uasset'
+[2021.08.30-02.20.46:353][ 20]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.20.46:353][ 20]LogContentValidation: Display: Material /Game/Objects_3D/Cars/Pixel/MAT_Pixel_body.MAT_Pixel_body 유효성 검사
+[2021.08.30-02.20.46:353][ 20]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixe_body.Pixe_body 유효성 검사
+[2021.08.30-02.21.10:721][394]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Pixel_bodyFC049B43441C254DC26969AE45B33DE9.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/Pixel_body.uasset'
+[2021.08.30-02.21.10:836][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.08.30-02.21.10:857][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.08.30-02.21.10:871][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.30-02.21.10:904][394]AssetCheck: New page: 애셋 저장: Pixel_body
+[2021.08.30-02.21.10:904][394]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/Pixel_body.Pixel_body 유효성 검사
+[2021.08.30-02.21.34:065][714]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_Pixel_wheelE991442141D5C2D55FD60193AEC2CD21.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/MAT_Pixel_wheel.uasset'
+[2021.08.30-02.21.34:202][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.30-02.21.34:226][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.30-02.21.34:239][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.30-02.21.34:287][714]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/pixel_wheelA973CE164AD56DA9186382964E4A750F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/Cars/Pixel/pixel_wheel.uasset'
+[2021.08.30-02.21.34:329][714]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.21.34:329][714]LogContentValidation: Display: Material /Game/Objects_3D/Cars/Pixel/MAT_Pixel_wheel.MAT_Pixel_wheel 유효성 검사
+[2021.08.30-02.21.34:329][714]LogContentValidation: Display: StaticMesh /Game/Objects_3D/Cars/Pixel/pixel_wheel.Pixel_wheel 유효성 검사
+[2021.08.30-02.27.27:220][411]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Exseon\ExseonWheel.fbx)
+[2021.08.30-02.27.27:242][411]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Exseon\ExseonWheel.fbx
+[2021.08.30-02.27.27:251][411]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.27.28:547][411]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.27.28:577][411]LogFbx: Display: Triangulating static mesh Torus
+[2021.08.30-02.27.28:625][411]LogStaticMesh: ExseonWheel_Torus 스태틱 메시 빌드중...
+[2021.08.30-02.27.28:646][411]LogStaticMesh: Built static mesh [0.02s] /Game/Objects_3D/Cars/Exseon/ExseonWheel_Torus.ExseonWheel_Torus
+[2021.08.30-02.27.28:650][411]LogStaticMesh: Warning: ExseonWheel_Torus 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다.
+[2021.08.30-02.27.28:650][411]LogStaticMesh: Warning: ExseonWheel_Torus 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2021.08.30-02.27.28:662][411]LogFbx: Display: Triangulating static mesh Torus.001
+[2021.08.30-02.27.28:700][411]LogStaticMesh: ExseonWheel_Torus_001 스태틱 메시 빌드중...
+[2021.08.30-02.27.28:727][411]LogStaticMesh: Built static mesh [0.03s] /Game/Objects_3D/Cars/Exseon/ExseonWheel_Torus_001.ExseonWheel_Torus_001
+[2021.08.30-02.27.28:731][411]LogStaticMesh: Warning: ExseonWheel_Torus_001 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다.
+[2021.08.30-02.27.28:731][411]LogStaticMesh: Warning: ExseonWheel_Torus_001 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2021.08.30-02.27.28:775][411]LogTexture: Display: 텍스처 빌드: Exseon (AutoDXT, 1024X1024)
+[2021.08.30-02.27.29:095][411]LogMaterial: Display: Missing cached shader map for material 매테리얼, compiling. 
+[2021.08.30-02.27.29:108][411]LogFbx: Display: Triangulating static mesh 큐브
+[2021.08.30-02.27.29:148][411]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.27.29:148][411]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.27.29:148][411]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.27.29:148][411]LogStaticMesh: ExseonWheel_큐브 스태틱 메시 빌드중...
+[2021.08.30-02.27.29:205][411]LogStaticMesh: Built static mesh [0.06s] /Game/Objects_3D/Cars/Exseon/ExseonWheel_큐브.ExseonWheel_큐브
+[2021.08.30-02.27.29:234][411]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.27.29:234][411]FBXImport: Warning: ExseonWheel_Torus 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다. 
+[2021.08.30-02.27.29:234][411]FBXImport: Warning: ExseonWheel_Torus 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4) 
+[2021.08.30-02.27.29:234][411]FBXImport: Warning: ExseonWheel_Torus_001 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다. 
+[2021.08.30-02.27.29:234][411]FBXImport: Warning: ExseonWheel_Torus_001 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4) 
+[2021.08.30-02.27.31:983][532]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.27.31:994][532]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.27.42:700][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.30-02.27.49:583][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.30-02.27.49:695][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.30-02.30.25:829][809]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\TriangleCrossRoad.fbx)
+[2021.08.30-02.30.25:846][809]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\TriangleCrossRoad.fbx
+[2021.08.30-02.30.25:856][809]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.30.27:477][809]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.30.27:532][809]LogTexture: Display: 텍스처 빌드: TriangleCrossRoad1 (AutoDXT, 1024X1024)
+[2021.08.30-02.30.27:647][809]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.08.30-02.30.27:661][809]LogFbx: Display: Triangulating static mesh Cube
+[2021.08.30-02.30.27:665][809]LogStaticMesh: TriangleCrossRoad 스태틱 메시 빌드중...
+[2021.08.30-02.30.27:670][809]LogStaticMesh: Built static mesh [0.01s] /Game/Objects_3D/MapObjects/City/TriangleCrossRoad.TriangleCrossRoad
+[2021.08.30-02.30.27:674][809]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.30.27:674][809]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.30.27:674][809]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.30.27:679][809]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.30.30:679][962]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.30.30:685][962]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.30.44:538][685]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_TriangleCrossRoad47912BF642EF81E606E4CAB8AEEC014E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/Texture_TriangleCrossRoad.uasset'
+[2021.08.30-02.30.44:675][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.08.30-02.30.44:803][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.30-02.30.44:820][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.30-02.30.44:855][685]AssetCheck: New page: 애셋 저장: Texture_TriangleCrossRoad
+[2021.08.30-02.30.44:855][685]LogContentValidation: Display: Texture2D /Game/Objects_3D/MapObjects/City/Texture_TriangleCrossRoad.Texture_TriangleCrossRoad 유효성 검사
+[2021.08.30-02.30.56:076][216]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.08.30-02.30.56:103][216]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (한컴 입력기).
+[2021.08.30-02.30.56:720][246]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_TriangleCrossRoad35D0C50A4D224BFA64877B8FAE80E672.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_TriangleCrossRoad.uasset'
+[2021.08.30-02.30.56:836][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.30-02.30.56:857][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.30-02.30.56:870][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.30-02.30.56:901][246]AssetCheck: New page: 애셋 저장: MAT_TriangleCrossRoad
+[2021.08.30-02.30.56:901][246]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_TriangleCrossRoad.MAT_TriangleCrossRoad 유효성 검사
+[2021.08.30-02.30.59:823][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.30-02.31.00:977][409]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.30-02.31.01:038][409]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/TriangleCrossRoadF39D02E14353394178472CB36534D5E4.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/TriangleCrossRoad.uasset'
+[2021.08.30-02.31.01:054][409]AssetCheck: New page: 애셋 저장: TriangleCrossRoad
+[2021.08.30-02.31.01:054][409]LogContentValidation: Display: StaticMesh /Game/Objects_3D/MapObjects/City/TriangleCrossRoad.TriangleCrossRoad 유효성 검사
+[2021.08.30-02.33.37:377][ 13]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\StrightRoadRoad6_2.fbx)
+[2021.08.30-02.33.37:405][ 13]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\StrightRoadRoad6_2.fbx
+[2021.08.30-02.33.37:420][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.33.38:938][ 13]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.33.39:005][ 13]LogTexture: Display: 텍스처 빌드: StrightRoadRoad6_3 (AutoDXT, 1024X1024)
+[2021.08.30-02.33.39:272][ 13]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.08.30-02.33.39:287][ 13]LogFbx: Display: Triangulating static mesh Cube
+[2021.08.30-02.33.39:310][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.33.39:310][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.33.39:310][ 13]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.33.39:311][ 13]LogStaticMesh: StrightRoadRoad6_2 스태틱 메시 빌드중...
+[2021.08.30-02.33.39:335][ 13]LogStaticMesh: Built static mesh [0.02s] /Game/Objects_3D/MapObjects/City/StrightRoadRoad6_2.StrightRoadRoad6_2
+[2021.08.30-02.33.39:347][ 13]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.33.41:042][ 75]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.33.41:059][ 75]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.38.26:295][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.08.30-02.38.26:315][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.030
+[2021.08.30-02.38.26:318][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_2] ([1] browsable assets)...
+[2021.08.30-02.38.26:349][530]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects_3D/MapObjects/City/StrightRoadRoad6_2.StrightRoadRoad6_2]
+[2021.08.30-02.38.26:349][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_2]
+[2021.08.30-02.38.26:382][530]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/StrightRoadRoad6_2_Auto25341CD484651BB00E943369F296D5C24.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_2_Auto2.uasset'
+[2021.08.30-02.38.26:384][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/Material_001] ([1] browsable assets)...
+[2021.08.30-02.38.26:412][530]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects_3D/MapObjects/City/Material_001.Material_001]
+[2021.08.30-02.38.26:412][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/Material_001]
+[2021.08.30-02.38.26:424][530]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Material_001_Auto2C4A89F224F6CD4A8A293258C11142E17.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/Material_001_Auto2.uasset'
+[2021.08.30-02.38.26:426][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_3] ([1] browsable assets)...
+[2021.08.30-02.38.26:432][530]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects_3D/MapObjects/City/StrightRoadRoad6_3.StrightRoadRoad6_3]
+[2021.08.30-02.38.26:432][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_3]
+[2021.08.30-02.38.26:439][530]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/StrightRoadRoad6_3_Auto2B6061D1B41974F6DD19CC9851EF4FBE1.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/StrightRoadRoad6_3_Auto2.uasset'
+[2021.08.30-02.38.26:441][530]LogFileHelpers: Auto-saving content packages took 0.126
+[2021.08.30-02.54.10:751][656]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_StraightRoad_TrafficLightA260C72A4879FF10035888A581DF5325.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_StraightRoad_TrafficLight.uasset'
+[2021.08.30-02.54.10:998][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.08.30-02.54.11:030][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.30-02.54.11:046][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.30-02.54.11:113][656]AssetCheck: New page: 애셋 저장: MAT_StraightRoad_TrafficLight
+[2021.08.30-02.54.11:113][656]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_StraightRoad_TrafficLight.MAT_StraightRoad_TrafficLight 유효성 검사
+[2021.08.30-02.54.49:855][ 51]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/StraightRoad_TrafficLight4B4FE5C9407FB38DB60ECFB81C21A5C2.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/StraightRoad_TrafficLight.uasset'
+[2021.08.30-02.54.49:992][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.30-02.54.50:026][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.30-02.54.50:044][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.30-02.54.50:079][ 51]AssetCheck: New page: 애셋 저장: StraightRoad_TrafficLight
+[2021.08.30-02.54.50:079][ 51]LogContentValidation: Display: StaticMesh /Game/Objects_3D/MapObjects/City/StraightRoad_TrafficLight.StraightRoad_TrafficLight 유효성 검사
+[2021.08.30-02.55.01:102][516]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.08.30-02.55.01:124][516]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2021.08.30-02.55.03:193][601]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_StraightRoad_TrafficLigh1DE4E9C54FA8B46FA128B6BE7652BBEF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/Texture_StraightRoad_TrafficLight.uasset'
+[2021.08.30-02.55.03:359][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.08.30-02.55.03:405][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.30-02.55.03:426][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.30-02.55.03:493][601]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_StraightRoad_TrafficLightCACED03749C5B4AEFA154DB19DD873FA.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_StraightRoad_TrafficLight.uasset'
+[2021.08.30-02.55.03:543][601]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.55.03:543][601]LogContentValidation: Display: Texture2D /Game/Objects_3D/MapObjects/City/Texture_StraightRoad_TrafficLight.Texture_StraightRoad_TrafficLight 유효성 검사
+[2021.08.30-02.55.03:543][601]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_StraightRoad_TrafficLight.MAT_StraightRoad_TrafficLight 유효성 검사
+[2021.08.30-02.57.09:527][123]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\StrightRoad_6.fbx)
+[2021.08.30-02.57.09:548][123]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\StrightRoad_6.fbx
+[2021.08.30-02.57.09:559][123]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.57.10:858][123]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.57.10:927][123]LogTexture: Display: 텍스처 빌드: StrightRoad_7 (AutoDXT, 1024X1024)
+[2021.08.30-02.57.11:076][123]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.08.30-02.57.11:088][123]LogFbx: Display: Triangulating static mesh Cube
+[2021.08.30-02.57.11:110][123]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.57.11:110][123]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.57.11:110][123]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.57.11:111][123]LogStaticMesh: StrightRoad_6 스태틱 메시 빌드중...
+[2021.08.30-02.57.11:125][123]LogStaticMesh: Built static mesh [0.01s] /Game/Objects_3D/MapObjects/City/StrightRoad_6.StrightRoad_6
+[2021.08.30-02.57.11:136][123]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.57.13:309][220]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.57.13:313][220]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.57.20:834][595]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/StrightRoadFA7B41C74428DDFB2BECE2967C3A913B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/StrightRoad.uasset'
+[2021.08.30-02.57.21:160][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.30-02.57.21:191][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.30-02.57.21:250][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.30-02.57.21:281][595]AssetCheck: New page: 애셋 저장: StrightRoad
+[2021.08.30-02.57.21:281][595]LogContentValidation: Display: StaticMesh /Game/Objects_3D/MapObjects/City/StrightRoad.StrightRoad 유효성 검사
+[2021.08.30-02.57.39:634][592]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_StrightRoad45C6513B4EDECAB36D9F28A575D5F8D2.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_StrightRoad.uasset'
+[2021.08.30-02.57.39:768][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.08.30-02.57.39:791][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.30-02.57.39:804][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.30-02.57.39:851][592]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/StrightRoadAE881B6A4512B07D9B3AE491ED55ADCF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/StrightRoad.uasset'
+[2021.08.30-02.57.39:891][592]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.57.39:891][592]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_StrightRoad.MAT_StrightRoad 유효성 검사
+[2021.08.30-02.57.39:891][592]LogContentValidation: Display: StaticMesh /Game/Objects_3D/MapObjects/City/StrightRoad.StrightRoad 유효성 검사
+[2021.08.30-02.57.52:621][320]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_StrightRoadC3D1318743D538079C0D6BB385CE2AF2.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/Texture_StrightRoad.uasset'
+[2021.08.30-02.57.52:731][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.30-02.57.52:755][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.30-02.57.52:766][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.30-02.57.52:796][320]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_StrightRoad5B174F09410F5AD75C0A568EBDA2F02E.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_StrightRoad.uasset'
+[2021.08.30-02.57.52:833][320]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.30-02.57.52:834][320]LogContentValidation: Display: Texture2D /Game/Objects_3D/MapObjects/City/Texture_StrightRoad.Texture_StrightRoad 유효성 검사
+[2021.08.30-02.57.52:834][320]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_StrightRoad.MAT_StrightRoad 유효성 검사
+[2021.08.30-02.59.18:678][311]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\PlusCrossRoad.fbx)
+[2021.08.30-02.59.18:692][311]LogFbx: Loading FBX Scene from C:\My\MyProjects\OverTheSpeed\Blender Files\Map1\PlusCrossRoad.fbx
+[2021.08.30-02.59.18:702][311]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.30-02.59.19:805][311]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.30-02.59.19:857][311]LogTexture: Display: 텍스처 빌드: PlusCrossRoad1 (AutoDXT, 1024X1024)
+[2021.08.30-02.59.19:971][311]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.08.30-02.59.19:981][311]LogFbx: Display: Triangulating static mesh Cube
+[2021.08.30-02.59.19:994][311]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.08.30-02.59.19:994][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.08.30-02.59.19:994][311]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.08.30-02.59.19:995][311]LogStaticMesh: PlusCrossRoad 스태틱 메시 빌드중...
+[2021.08.30-02.59.20:007][311]LogStaticMesh: Built static mesh [0.01s] /Game/Objects_3D/MapObjects/City/PlusCrossRoad.PlusCrossRoad
+[2021.08.30-02.59.20:016][311]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.30-02.59.22:156][417]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.59.22:161][417]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.30-02.59.24:195][510]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Objects_3D/MapObjects/City/PlusCrossRoad.PlusCrossRoad
+[2021.08.30-02.59.24:809][510]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.30-02.59.24:809][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.30-02.59.25:175][510]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.08.30-02.59.25:176][510]LogSlate: Took 0.001452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.30-03.00.46:514][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.08.30-03.00.46:518][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.164
+[2021.08.30-03.00.46:522][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/PlusCrossRoad] ([1] browsable assets)...
+[2021.08.30-03.00.46:547][850]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects_3D/MapObjects/City/PlusCrossRoad.PlusCrossRoad]
+[2021.08.30-03.00.46:548][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/PlusCrossRoad]
+[2021.08.30-03.00.46:587][850]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/PlusCrossRoad_Auto34143467842FF4B54FFF68A97C6DC487B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/PlusCrossRoad_Auto3.uasset'
+[2021.08.30-03.00.46:598][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/Material] ([1] browsable assets)...
+[2021.08.30-03.00.46:613][850]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects_3D/MapObjects/City/Material.Material]
+[2021.08.30-03.00.46:613][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/Material]
+[2021.08.30-03.00.46:636][850]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Material_Auto3F40DD3B34C37FFC58A3B0A8A9604EA35.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/Material_Auto3.uasset'
+[2021.08.30-03.00.46:640][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects_3D/MapObjects/City/PlusCrossRoad1] ([1] browsable assets)...
+[2021.08.30-03.00.46:646][850]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects_3D/MapObjects/City/PlusCrossRoad1.PlusCrossRoad1]
+[2021.08.30-03.00.46:646][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects_3D/MapObjects/City/PlusCrossRoad1]
+[2021.08.30-03.00.46:662][850]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/PlusCrossRoad1_Auto3FF1784C044A3BCB36981DABC5DC6BAE9.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Autosaves/Game/Objects_3D/MapObjects/City/PlusCrossRoad1_Auto3.uasset'
+[2021.08.30-03.00.46:668][850]LogFileHelpers: Auto-saving content packages took 0.147
+[2021.08.30-03.01.21:647][692]LogSlate: Window 'PlusCrossRoad' being destroyed
+[2021.08.30-03.01.21:683][692]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.30-03.01.21:683][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.30-03.01.42:332][786]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/Texture_PlusCrossRoad813BB1D045421AB94C8D5F9E5DB76F79.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/Texture_PlusCrossRoad.uasset'
+[2021.08.30-03.01.42:480][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.30-03.01.42:511][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.30-03.01.42:523][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.30-03.01.42:562][786]AssetCheck: New page: 애셋 저장: Texture_PlusCrossRoad
+[2021.08.30-03.01.42:562][786]LogContentValidation: Display: Texture2D /Game/Objects_3D/MapObjects/City/Texture_PlusCrossRoad.Texture_PlusCrossRoad 유효성 검사
+[2021.08.30-03.01.56:680][595]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.08.30-03.01.56:684][595]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (한컴 입력기).
+[2021.08.30-03.01.57:364][630]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/MAT_PlusCrossRoad7E063C6D4D9F21ED0BFF49BF5069F838.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/MAT_PlusCrossRoad.uasset'
+[2021.08.30-03.01.57:469][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.30-03.01.57:489][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.30-03.01.57:500][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.30-03.01.57:529][630]AssetCheck: New page: 애셋 저장: MAT_PlusCrossRoad
+[2021.08.30-03.01.57:529][630]LogContentValidation: Display: Material /Game/Objects_3D/MapObjects/City/MAT_PlusCrossRoad.MAT_PlusCrossRoad 유효성 검사
+[2021.08.30-03.02.05:210][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.30-03.02.06:242][ 24]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.30-03.02.06:311][ 24]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Saved/PlusCrossRoad07FA07B04BD9902E908CBAA9FBF2F508.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/OverTheSpeed/Project/OverTheSpeed/Content/Objects_3D/MapObjects/City/PlusCrossRoad.uasset'
+[2021.08.30-03.02.06:327][ 24]AssetCheck: New page: 애셋 저장: PlusCrossRoad
+[2021.08.30-03.02.06:327][ 24]LogContentValidation: Display: StaticMesh /Game/Objects_3D/MapObjects/City/PlusCrossRoad.PlusCrossRoad 유효성 검사
