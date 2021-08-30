@@ -1,0 +1,2 @@
+C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\Definitions.OverTheSpeed.h
+C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Source\OverTheSpeed\OverTheSpeed.h

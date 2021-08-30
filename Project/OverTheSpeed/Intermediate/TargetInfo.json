@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OverTheSpeed",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\OverTheSpeed\\Project\\OverTheSpeed\\Source\\OverTheSpeed.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OverTheSpeedEditor",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\OverTheSpeed\\Project\\OverTheSpeed\\Source\\OverTheSpeedEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

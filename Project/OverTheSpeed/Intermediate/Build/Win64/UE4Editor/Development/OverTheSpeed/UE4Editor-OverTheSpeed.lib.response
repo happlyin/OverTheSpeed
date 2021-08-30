@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OverTheSpeed.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\OverTheSpeedEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\OverTheSpeed.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\OverTheSpeedGameModeBase.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\OverTheSpeed.init.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\OverTheSpeedGameModeBase.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\Default.rc2.res"
+/OUT:"C:\Users\happl\OneDrive\Documents\GitHub\OverTheSpeed\Project\OverTheSpeed\Intermediate\Build\Win64\UE4Editor\Development\OverTheSpeed\UE4Editor-OverTheSpeed.lib"
+/INCLUDE:IMPLEMENT_MODULE_OverTheSpeed

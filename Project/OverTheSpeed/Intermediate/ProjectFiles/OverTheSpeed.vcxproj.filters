@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OverTheSpeed.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1A3715A1-9AB4-43B6-AF47-383DF7B0969D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OverTheSpeed.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OverTheSpeedEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BF1B1944-069C-465F-B5C0-6D9682FC5CBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OverTheSpeed">
+      <UniqueIdentifier>{04BE35B4-2A28-471A-BC6A-8113E5C1B418}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OverTheSpeed\OverTheSpeed.Build.cs">
+      <Filter>Source\OverTheSpeed</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OverTheSpeed\OverTheSpeed.cpp">
+      <Filter>Source\OverTheSpeed</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OverTheSpeed\OverTheSpeed.h">
+      <Filter>Source\OverTheSpeed</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OverTheSpeed\OverTheSpeedGameModeBase.cpp">
+      <Filter>Source\OverTheSpeed</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OverTheSpeed\OverTheSpeedGameModeBase.h">
+      <Filter>Source\OverTheSpeed</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
